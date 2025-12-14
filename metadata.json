@@ -1,0 +1,5 @@
+{
+  "name": "SkillVantage AI",
+  "description": "An AI-powered career accelerator that clusters skillsets, analyzes gaps against market needs, finds jobs via Google Search Grounding, and provides image editing for professional profiles.",
+  "requestFramePermissions": []
+}
